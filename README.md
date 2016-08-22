@@ -15,7 +15,7 @@ git clone https://github.com/[username]/gofe5
 
 #### Install gitflow
 Now you will have everything you need to [start installing `git flow`](http://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html).
-For more information of using visit [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) or [Work git flow clear](http://hcbogdan.com/2015/03/10/git-flow/0.
+For more information of using visit [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) or [Work git flow clear](http://hcbogdan.com/2015/03/10/git-flow/0)
 
 #### Init gitflow
 
